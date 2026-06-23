@@ -1,3 +1,5 @@
+# Link: https://notebooklm.google.com/notebook/878a42eb-680b-4669-8c35-b5c7ea8b5fcf
+
 # Projeto-DIO---Empreendedorismo-com-IA-Generativa
 Utilizar ferramentas de Inteligência Artificial Generativa para pesquisar, organizar e sintetizar conhecimentos sobre empreendedorismo, criando uma base de estudos estruturada através do Google NotebookLM.
 
